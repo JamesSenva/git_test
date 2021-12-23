@@ -1,0 +1,4 @@
+This is the first time I'm using Git in VS Code.
+I really like this feeling of power when I'm coding and its more
+fulfilling than my other field.
+Thank you Odin Project.!
